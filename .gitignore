@@ -2,3 +2,6 @@ out
 .env
 learn-cicd-starter
 notely
+
+google-cloud-cli-darwin-x86_64.tar.gz
+google-cloud-sdk/
