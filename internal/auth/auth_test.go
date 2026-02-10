@@ -42,5 +42,3 @@ func TestGetAPIKey_ExtraSpaces(t *testing.T) {
 		t.Errorf("expected malformed authorization header error, got %v", err)
 	}
 }
-
-
