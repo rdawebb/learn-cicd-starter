@@ -5,3 +5,5 @@ notely
 
 google-cloud-cli-darwin-x86_64.tar.gz
 google-cloud-sdk/
+
+.DS_Store
